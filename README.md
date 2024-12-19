@@ -161,7 +161,7 @@ If the debug mode for action is activated, the Text entity will be created when 
 
 The "Attribute" item in the entity details page displays the format of the input parameter which is an ordered list, enclosed in square brackets []. The string elements in the list are enclosed in double quotation marks "".
 
-For example, the "Attributes" item in the details page of the Notify entity converted by the "Intelligent Speaker Execute Text Directive" action of xiaomi.wifispeaker.s12 siid=5, aiid=5 instance shows the action params as `[Text Content(str), Silent Execution(bool)]`. A properly formatted input is `["Hello", true]`.
+For example, the "Attributes" item in the details page of the Notify entity converted by the "Intelligent Speaker Execute Text Directive" action of xiaomi.wifispeaker.s12 siid=5, aiid=5 instance shows the action params as `[Text Content(str), Silent Execution(bool)]`. A properly formatted input is `["Hello Xoimi", true]`.
 
 ### Specific Conversion
 
@@ -377,7 +377,7 @@ Example:
 
 - [License](./LICENSE.md)
 - Contribution Guidelines: [English](./CONTRIBUTING.md) | [简体中文](./doc/CONTRIBUTING_zh.md)
-- [ChangeLog](./CHANGELOG.md)
+- [ChangeLog](./CHANGELOG.md) [Uzbek].(./CONTRIBUTING.md)
 - Development Documents: https://developers.home-assistant.io/docs/creating_component_index
 
 ## Directory Structure
